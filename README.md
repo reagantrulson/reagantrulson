@@ -1,11 +1,9 @@
 # Hi, my name is Reagan Trulson 🪐
 
-B.S. Applied Mathematics student at Utah State University, graduating in three years (Spring 2027) with a 4.0 GPA. Researching nonlinear observability theory and its applications to astrodynamics and orbit determination under Dr. Erin Beckman and Dr. Jackson Kulik.
+B.S. Applied Mathematics student at Utah State University graduating Spring 2027 after three-year timeline, 4.0 GPA. Researching nonlinear observability theory and its applications to astrodynamics and orbit determination under Dr. Erin Beckman and Dr. Jackson Kulik.
 
 Working at the intersection of numerical analysis, probability, and orbital mechanics — building
-Python simulations to test where classical mathematical tools break down for nonlinear systems,
-and experimenting with new statistical approaches (partial distance correlation) to pick up where they
-fall short.
+Python simulations and experimenting with new statistical approaches where classical mathematical tools break down for nonlinear systems.
 
 ---
 
